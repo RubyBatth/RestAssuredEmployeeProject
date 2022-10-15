@@ -1,0 +1,312 @@
+12/10/2022 10:50:31 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 10:50:39 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 10:50:39 EmployeesRestApI Content type is=>application/json
+12/10/2022 10:50:39 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 10:50:39 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 10:50:39 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 10:50:39 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 10:50:39 EmployeesRestApI Response Time is ==>1647
+12/10/2022 10:50:39 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 10:50:39 EmployeesRestApI Status code is ==>200
+12/10/2022 10:50:39 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 10:50:39 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 10:50:39 EmployeesRestApI *************** checking server Type***********
+12/10/2022 10:50:39 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 10:50:39 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 10:50:39 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 10:50:39 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 10:51:09 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 10:51:16 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 10:52:38 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 10:52:46 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 10:52:59 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 10:53:06 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 10:53:42 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 10:53:50 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:14:39 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 11:14:47 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 11:14:47 EmployeesRestApI Content type is=>application/json
+12/10/2022 11:14:47 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 11:14:47 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 11:14:47 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 11:14:47 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 11:14:47 EmployeesRestApI Response Time is ==>1328
+12/10/2022 11:14:47 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 11:14:47 EmployeesRestApI Status code is ==>200
+12/10/2022 11:14:47 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 11:14:47 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 11:14:47 EmployeesRestApI *************** checking server Type***********
+12/10/2022 11:14:47 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 11:14:47 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 11:14:47 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 11:14:47 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 11:14:47 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 11:14:52 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 11:14:52 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 11:14:58 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 11:14:58 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 11:15:03 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 11:15:03 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:15:09 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:20:10 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 11:20:18 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 11:20:39 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 11:20:47 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 11:21:18 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 11:21:25 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 11:21:39 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:21:47 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:31:58 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:33:20 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:33:29 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:36:06 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:36:26 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:38:51 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:39:00 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:41:58 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:42:06 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:46:01 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:46:10 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:47:54 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:48:00 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:50:07 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:50:13 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 11:51:05 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:51:28 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 11:51:33 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 12:21:48 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 12:21:57 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 12:21:57 EmployeesRestApI Content type is=>application/json
+12/10/2022 12:21:58 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 12:21:58 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 12:21:58 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 12:21:58 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 12:21:58 EmployeesRestApI Response Time is ==>2276
+12/10/2022 12:21:58 EmployeesRestApI Response Time is greater than 2000
+12/10/2022 12:21:58 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 12:21:58 EmployeesRestApI Status code is ==>200
+12/10/2022 12:21:58 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 12:21:58 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 12:21:58 EmployeesRestApI *************** checking server Type***********
+12/10/2022 12:21:58 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 12:21:58 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 12:21:58 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 12:21:58 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 12:21:58 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 12:22:04 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 12:22:04 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 12:22:09 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 12:22:09 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 12:22:15 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 12:22:15 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 12:22:19 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 12:23:05 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 12:23:13 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 12:23:46 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 12:23:53 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 12:23:53 EmployeesRestApI Content type is=>application/json
+12/10/2022 12:23:53 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 12:23:53 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 12:23:53 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 12:23:53 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 12:23:53 EmployeesRestApI Response Time is ==>1452
+12/10/2022 12:23:53 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 12:23:53 EmployeesRestApI Status code is ==>200
+12/10/2022 12:23:53 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 12:23:53 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 12:23:53 EmployeesRestApI *************** checking server Type***********
+12/10/2022 12:23:53 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 12:23:53 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 12:23:53 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 12:23:53 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 12:23:53 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 12:23:59 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 12:23:59 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 12:24:04 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 12:24:04 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 12:24:10 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 12:24:10 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 12:24:14 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 12:43:34 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 12:43:43 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 12:43:43 EmployeesRestApI Content type is=>application/json
+12/10/2022 12:43:43 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 12:43:43 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 12:43:43 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 12:43:43 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 12:43:43 EmployeesRestApI Response Time is ==>3482
+12/10/2022 12:43:43 EmployeesRestApI Response Time is greater than 2000
+12/10/2022 12:43:44 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 12:43:44 EmployeesRestApI Status code is ==>200
+12/10/2022 12:43:44 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 12:43:44 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 12:43:44 EmployeesRestApI *************** checking server Type***********
+12/10/2022 12:43:44 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 12:43:44 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 12:43:44 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 12:43:44 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 12:43:44 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 12:43:49 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 12:43:49 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 12:43:55 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 12:43:55 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 12:44:00 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 12:44:00 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 12:52:21 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 12:52:28 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 12:52:28 EmployeesRestApI Content type is=>application/json
+12/10/2022 12:52:28 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 12:52:28 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 12:52:28 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 12:52:28 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 12:52:28 EmployeesRestApI Response Time is ==>1541
+12/10/2022 12:52:28 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 12:52:28 EmployeesRestApI Status code is ==>200
+12/10/2022 12:52:28 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 12:52:28 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 12:52:28 EmployeesRestApI *************** checking server Type***********
+12/10/2022 12:52:28 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 12:52:28 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 12:52:28 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 12:52:28 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 12:52:28 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 12:52:34 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 12:52:34 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 12:52:39 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 12:52:39 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 12:52:45 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 12:52:45 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 12:52:49 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
+12/10/2022 12:53:09 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 12:53:16 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 12:53:16 EmployeesRestApI Content type is=>text/html; charset=UTF-8
+12/10/2022 12:53:16 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 12:53:16 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 12:53:16 EmployeesRestApI Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+12/10/2022 12:53:16 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 12:53:16 EmployeesRestApI Response Time is ==>1079
+12/10/2022 12:53:16 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 12:53:16 EmployeesRestApI Status code is ==>429
+12/10/2022 12:53:16 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 12:53:16 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 12:53:16 EmployeesRestApI *************** checking server Type***********
+12/10/2022 12:53:16 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 12:53:16 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 12:53:16 EmployeesRestApI Status Line is ==>HTTP/1.1 429 Too Many Requests
+12/10/2022 12:53:16 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 12:53:16 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 12:53:22 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 12:53:22 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 12:53:27 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 12:53:27 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 12:53:33 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 12:53:33 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 12:53:58 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 12:54:05 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 12:54:05 EmployeesRestApI Content type is=>application/json
+12/10/2022 12:54:05 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 12:54:05 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 12:54:05 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 12:54:05 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 12:54:05 EmployeesRestApI Response Time is ==>1177
+12/10/2022 12:54:05 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 12:54:05 EmployeesRestApI Status code is ==>200
+12/10/2022 12:54:05 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 12:54:05 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 12:54:05 EmployeesRestApI *************** checking server Type***********
+12/10/2022 12:54:05 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 12:54:05 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 12:54:05 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 12:54:05 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 12:54:05 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 12:54:11 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 12:54:11 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 12:54:16 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 12:54:16 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 12:54:22 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 12:54:22 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 14:09:25 EmployeesRestApI ************Started TC001_Get_All_Employees**********
+12/10/2022 14:09:33 EmployeesRestApI *************Checking Content Type *****************
+12/10/2022 14:09:33 EmployeesRestApI Content type is=>application/json
+12/10/2022 14:09:33 EmployeesRestApI **************Checking Cookies*************
+12/10/2022 14:09:33 EmployeesRestApI *******************Checking Response Body ********************
+12/10/2022 14:09:33 EmployeesRestApI Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+12/10/2022 14:09:33 EmployeesRestApI **************** Checking Response Time **************
+12/10/2022 14:09:33 EmployeesRestApI Response Time is ==>1970
+12/10/2022 14:09:33 EmployeesRestApI *****************Checking Status Code******************
+12/10/2022 14:09:33 EmployeesRestApI Status code is ==>200
+12/10/2022 14:09:33 EmployeesRestApI **************** Checking Content Encoding***********
+12/10/2022 14:09:33 EmployeesRestApI Content Lenght is==>gzip
+12/10/2022 14:09:33 EmployeesRestApI *************** checking server Type***********
+12/10/2022 14:09:33 EmployeesRestApI Server Type is =>nginx/1.21.6
+12/10/2022 14:09:33 EmployeesRestApI ************Checking Status Line *************
+12/10/2022 14:09:33 EmployeesRestApI Status Line is ==>HTTP/1.1 200 OK
+12/10/2022 14:09:33 EmployeesRestApI **********************Finished TC001_Get_All_Employees*********
+12/10/2022 14:09:33 EmployeesRestApI ****************Started Tc002_Get_Single_Employee_Record************
+12/10/2022 14:09:39 EmployeesRestApI **************Finished Tc002_Get_Single_Employee_Record***************
+12/10/2022 14:09:39 EmployeesRestApI *****************Started TC003_Post_Employee_Record**********
+12/10/2022 14:09:44 EmployeesRestApI *************Finished TC003_Post_Employee_Record*************
+12/10/2022 14:09:44 EmployeesRestApI *****************Started TC004_Put_Employee_Record**********
+12/10/2022 14:09:50 EmployeesRestApI *************Finished TC004_Put_Employee_Record*************
+12/10/2022 14:09:50 EmployeesRestApI *****************Started TC005_Delete_Employee_Record**********
+12/10/2022 14:09:56 EmployeesRestApI *************Finished TC005_Delete_Employee_Record*************
